@@ -8,6 +8,3 @@ function login(){
     // redierection
     window.location='home.html'
 }
-function logout(){
-    window.location='login.html'
-}
